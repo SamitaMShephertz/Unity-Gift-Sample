@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\App42\Login.cs">
+    <Files>
+      <File FileName="Assets\Scripts\App42\Login.cs" Line="39" Column="2" />
+      <File FileName="Assets\Scripts\App42\UserResponse.cs" Line="53" Column="24" />
+      <File FileName="Assets\Scripts\App42\Choose.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\App42\GiftPage.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\App42\GiftCountCallBack.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\App42\GiftCallBack.cs" Line="25" Column="22" />
+      <File FileName="Assets\Scripts\App42\Constant.cs" Line="11" Column="32" />
+      <File FileName="Assets\Scripts\App42\ScoreBoardResponse.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\App42\SaveScoreCallBack.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\App42\Remover.cs" Line="78" Column="84" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
