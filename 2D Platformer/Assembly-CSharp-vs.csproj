@@ -78,7 +78,7 @@
      <Compile Include="Assets\Scripts\SetParticleSortingLayer.cs" />
      <Compile Include="Assets\Scripts\Spawner.cs" />
  <Reference Include="App42_Unity3D_SDK_2.9">
- <HintPath>C:/Users/PRAVIN/Documents/2D Platformer/Assets/App42_Unity3D_SDK_2.9.dll</HintPath>
+ <HintPath>C:/Users/PRAVIN/Documents/Unity Gift Implementation/2D Platformer/Assets/App42_Unity3D_SDK_2.9.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
